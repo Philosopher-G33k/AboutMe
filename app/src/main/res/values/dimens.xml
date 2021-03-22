@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nameSize">20sp</dimen>
+    <dimen name="top_padding">8sp</dimen>
+    <dimen name="top_margin">16sp</dimen>
+    <dimen name="parent_padding">16sp</dimen>
+</resources>
